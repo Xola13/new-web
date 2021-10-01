@@ -1,0 +1,41 @@
+form{
+    margin-left: 35%;
+    margin-right: 35%;
+
+}
+/* Navigation bar */
+h1{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: auto;
+    background-color: rgb(20, 41, 41);
+}
+li {
+    float: left;
+}
+li a {
+    display:block;
+    color: wheat;
+    text-align: center;
+    padding: 14px 18px;
+    text-decoration:none ;
+}
+body {
+    background-image: url("https://picsum.photos/1920");
+}
+img {
+    border-radius: 10px;
+}
+h3 {
+    text-align:center;
+}
+h2 {
+    *text-align: center;
+}
+img {
+    border-radius: 5px;
+}
