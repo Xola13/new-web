@@ -39,3 +39,9 @@ h2 {
 img {
     border-radius: 5px;
 }
+img {
+    border: ;
+}
+img {clip-path: circle(100%);border-radius: 50%;background-origin: border-box;
+
+}
